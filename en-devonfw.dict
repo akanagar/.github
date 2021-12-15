@@ -243,6 +243,7 @@ idprefix
 idseparator
 ifdef
 IIS
+imagesdir
 Immer
 incrementing
 init
@@ -637,6 +638,7 @@ uncheck
 uncomment
 underscore
 unicode
+uninstallUI
 unlink
 Unlocker
 untyped
